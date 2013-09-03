@@ -1,5 +1,5 @@
 <?php
 
-	//global file for Beta
+	//global file for master
 
 ?>
