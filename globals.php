@@ -1,5 +1,5 @@
 <?php
 
-	//global file for beta
+	//global file for beta test
 
 ?>
